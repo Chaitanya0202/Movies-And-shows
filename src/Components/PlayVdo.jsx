@@ -16,9 +16,7 @@ const handelerMovies=()=>{
   return (
     <>
     
-      <div className="">
-        <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      </div>
+     
       <div className=" d-flex justify-content-center">
       <Link className="btn btn-outline-primary" to={"/movies"}>Movies</Link>
       </div>
